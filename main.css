@@ -34,7 +34,9 @@ body {
   justify-content: space-between;
   box-shadow: 1px;
   /*border: solid 1px lightblue;*/
+  margin-bottom: auto;
   margin-top: 50px;
+  margin-right: 525px;
  
 
   }
@@ -71,6 +73,15 @@ body {
     margin-right: 50px;
 
 }
+
+
+.product5 {
+  border: solid 1px lightblue;
+  /* margin-right: 50px; */
+ 
+
+}
+
 
 .text-align {
     text-align: center;
