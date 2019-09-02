@@ -1,0 +1,152 @@
+body {
+    
+    background-image: url("https://pub-static.haozhaopian.net/static/web/site/features/backgrounds/images/Texture_05_A-small-map9e01c2b231b95edfd899e8ea275d63d0.jpg");
+
+} 
+/* .big-container{
+  background-color: aqua;
+  margin: auto;
+  width: 250px;
+} */
+
+.container1 {
+  display: flex; 
+  flex-direction:row; 
+  height: 660px;
+  flex-wrap: wrap;
+  /*align-content: space-around;*/
+
+  justify-content: space-between;
+  box-shadow: 1px;
+  /*border: solid 1px lightblue;*/
+  margin-bottom: auto;
+
+  
+}
+
+.container2 {
+  display: flex; 
+  flex-direction:row; 
+  height: 660px;
+  flex-wrap: wrap;
+  /*align-content: space-around;*/
+
+  justify-content: space-between;
+  box-shadow: 1px;
+  /*border: solid 1px lightblue;*/
+  margin-top: 50px;
+ 
+
+  }
+
+/* .flex-container > div {
+  background-color: yellowgreen;
+  width: 0px;
+  margin: 0px;
+  text-align: center;
+  line-height: 75px;
+  font-size: 30px;
+} */
+ 
+.product1 {
+    
+    margin-right: 50px;
+    border: solid 1px lightblue;
+}
+
+.product2 {
+    border: solid 1px lightblue;
+    margin-right: 50px;
+
+}
+
+.product3 {
+    border: solid 1px lightblue;
+    margin-right: 50px;
+
+}
+
+.product4 {
+    border: solid 1px lightblue;
+    margin-right: 50px;
+
+}
+
+.text-align {
+    text-align: center;
+    /*background: yellowgreen;*/
+    height: 20px;
+    margin-bottom: 0px;
+    
+}
+
+.product-availability {
+    border-width: 500px;
+    background: darkgrey;
+    text-align: left;
+    color: yellow;
+} 
+
+.product-discription {
+    text-align: center;
+    font-size: 12px;
+}
+
+.img-resize {
+    width:300px;
+    height:300px;
+    margin-top: 20px;
+
+  }
+
+  .title {
+    /* border: solid 1px lightblue;
+    border-top: solid yellow; */
+    text-align: center;
+    margin: auto;
+    margin-top: 1%;
+    border-bottom: solid  1px lightblue;
+    font-size: 30px;
+    padding: auto;
+
+    
+    
+
+  }
+
+  .title-Specification {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: normal;
+      
+  }
+
+  .product-specification {
+    font-weight: bold;
+    font-size: 12px;
+    text-align: left;
+    margin-left: 30px;
+    line-height: normal;
+
+  }
+
+  .product-validity {
+      text-align: left;
+      font-size:10px;
+  }
+
+  .Pricing {
+      text-align: left;
+      font-weight: bold;
+      font-size: 14px;
+      margin-bottom: 12px;
+  }
+
+  .price-list {
+    text-align: left;
+    font-weight: bold;
+    font-size: 12px;
+  }
+
+ 
